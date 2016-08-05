@@ -1,0 +1,39 @@
+_repo: Little-Eyolf_7942
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Archer, William
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '3729'
+    url: http://www.gutenberg.org/2009/agents/3729
+    wikipedia: http://en.wikipedia.org/wiki/William_Archer_(critic)
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: Guilt and grief hold equal sway over the characters in Ibsen's 'Little
+  Eyolf', in which a couple must come to terms with the death of a child. Alfred,
+  the child's father, is wracked with guilt for his failure to protect his son. Rita,
+  his wife, struggles desperately to regain her husband's attention as their marriage
+  crumbles around them. Both are haunted by past resentments even as they struggle
+  with present tragedy. 'Little Eyolf', one of Ibsen's last plays, premiered at the
+  Deutsches Theater in Berlin in 1895.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian drama -- Translations into English'
+- GITenberg
+title: Little Eyolf
+url: http://www.gutenberg.org/ebooks/7942
